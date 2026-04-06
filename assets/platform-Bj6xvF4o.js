@@ -1,0 +1,2 @@
+const o="DT-Robot Monitoring",t="3D Tunnel Robot Digital Twin Control & Monitoring",n="3D Tunnel Robot Digital Twin Control & Monitoring",i="Platform Settings",l="Logout",s="Robot Control Config",g={title:o,subtitle:t,desc:n,settings:i,logout:l,robot_config:s};export{g as default,n as desc,l as logout,s as robot_config,i as settings,t as subtitle,o as title};
+//# sourceMappingURL=platform-Bj6xvF4o.js.map
