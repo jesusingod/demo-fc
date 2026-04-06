@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="m-safety logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff7a59"/>
+      <stop offset="100%" stop-color="#ff3d6d"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="20" fill="url(#g)" />
+  <g transform="translate(16,20) scale(0.78)" fill="#fff" font-family="Inter, Arial, sans-serif" font-weight="700">
+    <text x="16" y="86" font-size="96">M</text>
+  </g>
+</svg>
