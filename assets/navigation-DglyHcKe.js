@@ -1,1 +1,2 @@
 const t="Dashboard",s={title:"Settings",area:"Area Management",camera:"Camera Management",sensor:"Sensor Management"},a={title:"History",status:"Status History",sensor:"Sensor History"},o="Logout",e={dashboard:t,settings:s,history:a,logout:o};export{t as dashboard,e as default,a as history,o as logout,s as settings};
+//# sourceMappingURL=navigation-DglyHcKe.js.map

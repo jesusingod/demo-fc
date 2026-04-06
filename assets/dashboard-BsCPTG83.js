@@ -1,1 +1,2 @@
 const e="Dashboard",n="M-Safety Monitoring Dashboard",t={plant_all:"All Plants Integrated",split_view:"Screen Split",channel:"Channel",view_grid:"Grid View",view_map:"Map View",view_chart:"Chart View",fs_enter:"Full Screen Mode",fs_exit:"Exit Full Screen"},i={timeline:"Live Event Timeline",environment:"Environmental Monitoring",camera_control:"Camera Monitoring"},a={title:e,welcome:n,header:t,sections:i};export{a as default,t as header,i as sections,e as title,n as welcome};
+//# sourceMappingURL=dashboard-BsCPTG83.js.map
