@@ -1,0 +1,1 @@
+const t="DT-Robot 모니터링",o="3D 터널 로봇 디지털 트윈 제어 및 모니터링",s="플랫폼 설정",n="로그아웃",c="로봇 제어 설정",e={title:t,subtitle:o,settings:s,logout:n,robot_config:c};export{e as default,n as logout,c as robot_config,s as settings,o as subtitle,t as title};
