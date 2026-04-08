@@ -1,0 +1,2 @@
+const o="Common Code Management",e="Group Definitions",t="Code Details",n="Group ID",c="Group Name",s="Code Item",a="Item Value",d="Sort Order",r="Notes",m="Reference Data 1",u="Sync System",p={title:o,groupInfo:e,codeInfo:t,groupCode:n,groupName:c,code:s,codeValue:a,sort:d,memo:r,data1:m,sync:u};export{s as code,t as codeInfo,a as codeValue,m as data1,p as default,n as groupCode,e as groupInfo,c as groupName,r as memo,d as sort,u as sync,o as title};
+//# sourceMappingURL=code-D7vEehl3.js.map

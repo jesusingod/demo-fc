@@ -1,0 +1,2 @@
+const a="라벨링 플랫폼",t="AI 학습 데이터 구축 및 라벨링을 위한 전문 플랫폼입니다. BBox, Polygon, Keypoint 등 다양한 학습 데이터 생성을 지원합니다.",e={dashboard:"대시보드",labeling:"라벨링 작업",manage:"시스템 관리",manageProject:"프로젝트 관리",manageUser:"사용자 관리",manageOrg:"운영 조직 관리",manageImage:"이미지 관리",manageClass:"클래스 관리",manageCode:"공통코드 관리",quality:"품질 검수",statistics:"작업 통계",statOverall:"작업 총괄 통계",statWorker:"개인별 실적 통계",statDefect:"불량률 분석",notice:"게시판"},o={platformTitle:a,platformDesc:t,navigation:e};export{o as default,e as navigation,t as platformDesc,a as platformTitle};
+//# sourceMappingURL=platform-C-1-vfJN.js.map

@@ -1,0 +1,2 @@
+const e="Location Information Service",t="Location Platform",a="A precision location service platform for integrated management of real-time vehicle and position data.",n="Dashboard",o="User List",s={fullscreen:"Fullscreen",fullscreenEnter:"Enter fullscreen",fullscreenExit:"Exit fullscreen",language:"Language",theme:"Theme",guest:"Guest",platformFallback:"Platform"},l={title:e,subtitle:t,desc:a,dashboard:n,users:o,sidebar:s};export{n as dashboard,l as default,a as desc,s as sidebar,t as subtitle,e as title,o as users};
+//# sourceMappingURL=platform-DxHzEeXL.js.map

@@ -1,0 +1,2 @@
+const t="클래스 관리",s="작업에 사용될 객체 클래스와 속성을 정의합니다.",o="신규 클래스 추가",c="상세 설정",n="클래스 코드",d="대표 색상",e="속성 관리 (Attributes)",l="속성 추가",a="도구 타입",r={added:"신규 클래스가 추가되었습니다.",noAttr:"등록된 속성이 없습니다."},i={title:t,subtitle:s,addBtn:o,detailTitle:c,clsCode:n,clsColor:d,attr:e,addAttr:l,toolType:a,msg:r};export{l as addAttr,o as addBtn,e as attr,n as clsCode,d as clsColor,i as default,c as detailTitle,r as msg,s as subtitle,t as title,a as toolType};
+//# sourceMappingURL=class-D53sZp9s.js.map

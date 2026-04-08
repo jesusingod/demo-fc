@@ -1,0 +1,2 @@
+const t="위치정보 서비스",e="로케이션 플랫폼",s="실시간 차량 및 위치 정보를 통합 관리하는 정밀 로케이션 서비스 플랫폼입니다.",l="대시보드",c="사용자 목록",n={fullscreen:"전체화면",fullscreenEnter:"전체화면 확대",fullscreenExit:"전체화면 종료",language:"다국어",theme:"테마",guest:"게스트",platformFallback:"플랫폼"},a={title:t,subtitle:e,desc:s,dashboard:l,users:c,sidebar:n};export{l as dashboard,a as default,s as desc,n as sidebar,e as subtitle,t as title,c as users};
+//# sourceMappingURL=platform-DJ6NoWkV.js.map

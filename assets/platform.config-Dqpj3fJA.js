@@ -1,0 +1,2 @@
+const o=[{key:"dashboard",label:"navigation.dashboard",icon:"dashboard",path:"/dashboard",isHome:!0,namespace:"dashboard"},{key:"logout",label:"navigation.logout",action:"logout",icon:"logout"}],a={desc:"loc.desc",defaultTheme:"default",key:"loc",layoutKey:"sidebar-only",title:"loc.title",subtitle:"loc.subtitle",logo:"/demo-fc/assets/platforms/loc/logo.png",login:{background:"/demo-fc/assets/platforms/loc/background.png",template:"rightpanel",panelOpacity:.12},navigation:o};export{a as default,a as platformConfig};
+//# sourceMappingURL=platform.config-Dqpj3fJA.js.map

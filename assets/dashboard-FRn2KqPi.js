@@ -1,0 +1,2 @@
+const t="라벨링 대시보드",s="라벨링 프로젝트 진척도 및 성과 요약",o={projects:"수행 프로젝트",projectsHint:"현재 진행 및 대기 중인 전체 프로젝트 수",todayCount:"금일 작업 수량",todayCountHint:"금일 전수 작업 및 검수가 완료된 데이터 수",activeWorkers:"참여 작업자",activeWorkersHint:"현재 프로젝트에 투입된 실시간 작업 인원",avgProgress:"평균 진척률",avgProgressHint:"모든 활성 프로젝트의 평균 진행 상태"},e={title:"전체 프로젝트 진행 현황",deadlineTitle:"마감 임박 태스크"},r={progress:"업무별 진행률",daily:"일일 작업량"},a={title:t,subtitle:s,summary:o,tasks:e,charts:r};export{r as charts,a as default,s as subtitle,o as summary,e as tasks,t as title};
+//# sourceMappingURL=dashboard-FRn2KqPi.js.map

@@ -1,0 +1,2 @@
+const o="공통코드 관리",t="그룹 코드 정보",c="상세 코드 정보",s="그룹 코드",n="그룹 명",a="코드",e="코드 값",r="순서",u="비고",d="참조데이터1",m="동기화",f={title:o,groupInfo:t,codeInfo:c,groupCode:s,groupName:n,code:"코드",codeValue:e,sort:"순서",memo:"비고",data1:d,sync:"동기화"};export{a as code,c as codeInfo,e as codeValue,d as data1,f as default,s as groupCode,t as groupInfo,n as groupName,u as memo,r as sort,m as sync,o as title};
+//# sourceMappingURL=code-DlRiUFWN.js.map
