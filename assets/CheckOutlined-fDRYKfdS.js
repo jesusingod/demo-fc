@@ -1,0 +1,2 @@
+import{r as o,au as s,bZ as c}from"./index-HPKc5YUP.js";function a(){return a=Object.assign?Object.assign.bind():function(t){for(var n=1;n<arguments.length;n++){var r=arguments[n];for(var e in r)Object.prototype.hasOwnProperty.call(r,e)&&(t[e]=r[e])}return t},a.apply(this,arguments)}const i=(t,n)=>o.createElement(s,a({},t,{ref:n,icon:c})),p=o.forwardRef(i);export{p as R};
+//# sourceMappingURL=CheckOutlined-fDRYKfdS.js.map
