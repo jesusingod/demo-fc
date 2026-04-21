@@ -1,0 +1,2 @@
+const t={title:"Quarantine Detection History",columns:{time:"Arrival Time",gate:"Gate",status:"Status",deviceOprtn:"Device Operation",actionLog:"Action Log",detail:"Detail Info",name:"Full Name",logs:"Logs"}},e={title:"Patient Transport Records",columns:{time:"Occurrence Time",patientId:"Patient ID",origin:"Origin",destination:"Destination",status:"Transport Status"}},i={detection:t,transport:e};export{i as default,t as detection,e as transport};
+//# sourceMappingURL=history-WVZsFUzd.js.map

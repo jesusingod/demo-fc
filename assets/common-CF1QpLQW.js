@@ -1,0 +1,2 @@
+const s="확인",c="삭제 확인",e="정말로 삭제하시겠습니까? 관련 데이터가 모두 소멸됩니다.",n="성공적으로 저장되었습니다.",o="성공적으로 삭제되었습니다.",t="예",l="아니오",a="취소",m="닫기",r={confirm:"확인",confirmDelete:c,deleteWarning:e,saveSuccess:n,deleteSuccess:o,yes:"예",no:"아니오",cancel:"취소",close:"닫기"};export{a as cancel,m as close,s as confirm,c as confirmDelete,r as default,o as deleteSuccess,e as deleteWarning,l as no,n as saveSuccess,t as yes};
+//# sourceMappingURL=common-CF1QpLQW.js.map
